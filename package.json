@@ -1,0 +1,14 @@
+{
+  "name": "open-git-repository",
+  "version": "1.0.0",
+  "description": "open-git-repository by default browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "og": "./index.js"
+  },
+  "author": "aranhu",
+  "license": "ISC"
+}
