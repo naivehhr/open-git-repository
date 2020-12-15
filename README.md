@@ -5,11 +5,12 @@ open git | gitlab project url in the default browser
 ### Install
 
 ```
-sudo npm install -g open-git-repository
+npm install -g open-git-repository
 ```
 
 ### Usage
 
 ```
-og
+cd your_project_path
+execute command ==> og
 ```
